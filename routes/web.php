@@ -21,4 +21,8 @@ Route::get('about', function () {
 
 });
 
+Route::get('contactus', function () {
+
+});
+
 // Whatever logic to you add your reporting file
