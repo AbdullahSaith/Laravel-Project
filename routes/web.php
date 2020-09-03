@@ -20,3 +20,5 @@ Route::get('/', function () {
 Route::get('about', function () {
 
 });
+
+// Whatever logic to you add your reporting file
